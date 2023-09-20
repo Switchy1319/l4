@@ -1,0 +1,14 @@
+
+.checkbox, radio {
+    width: 15px;
+    height: auto;
+    display: inline;
+}
+a{
+    color: red;
+    text-decoration: none;
+    font-size: 40px;
+}
+html{
+    scroll-behavior: smooth;
+}
